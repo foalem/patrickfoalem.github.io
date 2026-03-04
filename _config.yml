@@ -15,8 +15,8 @@ name                     : &name "Patrick Foalem"
 description              : &description "Researcher in Software Engineering and AI working on responsible AI engineering, MLOps/LLMOps, and trustworthy machine learning systems."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://foalem.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "/patrickfoalem.github.io" # the subpath of your site, e.g. "/blog"
-repository               : "foalem/patrickfoalem.github.io" #"patrickfoalem/patrickfoalem.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "foalem/foalem.github.io" #"patrickfoalem/patrickfoalem.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -29,7 +29,7 @@ author:
   bio              : "PhD candidate in Software Engineering at Polytechnique Montréal working on responsible AI engineering and trustworthy machine learning systems."
   location         : "Montreal, Canada"
   employer         : "Polytechnique Montréal"
-  uri              : "https://patrickfoalem.github.io"
+  uri              : "https://foalem.github.io"
   email            : "patrick-loic.foalem@polymtl.ca" 
 
   # Academic websites
