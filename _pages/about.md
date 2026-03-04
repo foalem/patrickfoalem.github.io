@@ -42,6 +42,43 @@ I am also passionate about **soccer ⚽, taekwondo 🥋, and video games (PS5)**
 
 ---
 
+# Education
+
+<div style="display:flex; justify-content:space-between; margin-bottom:10px;">
+<div>
+<b>PhD in Software Engineering (expected soon)</b><br>
+École Polytechnique de Montréal
+</div>
+<div style="text-align:right;">
+<i>Aug. 2021 – Present</i><br>
+Montréal, Canada
+</div>
+</div>
+
+<div style="display:flex; justify-content:space-between; margin-bottom:10px;">
+<div>
+<b>M.Sc. in Software Engineering <span style="color:#e83e8c">(Valedictorian)</span></b><br>
+Université des Montagnes
+</div>
+<div style="text-align:right;">
+<i>2020</i><br>
+Bangangté, Cameroon
+</div>
+</div>
+
+<div style="display:flex; justify-content:space-between;">
+<div>
+<b>B.Sc. in Computer Science <span style="color:#e83e8c">(Valedictorian)</span></b><br>
+Université des Montagnes
+</div>
+<div style="text-align:right;">
+<i>2017</i><br>
+Bangangté, Cameroon
+</div>
+</div>
+
+---
+
 ## Latest News
 
 <div style="max-height:200px; overflow-y:auto; border-left:3px solid #2c7be5; padding-left:15px;">
