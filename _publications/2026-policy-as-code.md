@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/policy-as-code-adoption
 date: 2026-01-01
 venue: "Under review at Journal of Systems and Software (JSS)"
+authors: "**Patrick Loïc Foalem**, Foutse Khomh, Leuson Da Silva, Ettore Merlo"
 paperurl: https://arxiv.org/abs/2601.05555
 citation: "Foalem, P. L., Khomh, F., Da Silva, L., Merlo, E. (2026). An Empirical Study of Policy-as-Code Adoption in Open-Source Software Projects. arXiv preprint arXiv:2601.05555."
 bibtex: |
