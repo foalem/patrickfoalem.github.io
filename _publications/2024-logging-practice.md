@@ -3,7 +3,7 @@ title: "Studying Logging Practice in Machine Learning-based Applications"
 collection: publications
 permalink: /publication/logging-practice-ml
 date: 2024-01-01
-venue: "Information and Software Technology (IST)"
+venue: "Information and Software Technology (IST Journal)"
 authors: "**Patrick L. Foalem**, Foutse Khomh, Heng Li"
 paperurl: https://www.sciencedirect.com/science/article/pii/S0950584924000557
 bibtex: |

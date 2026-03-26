@@ -3,7 +3,7 @@ title: "An Empirical Study of Policy-as-Code Adoption in Open-Source Software Pr
 collection: publications
 permalink: /publication/policy-as-code-adoption
 date: 2026-01-01
-venue: "Journal of Systems and Software (JSS)-Under review (2nd round)"
+venue: "Journal of Systems and Software (JSS Journal)-Under review (2nd round)"
 authors: "**Patrick L. Foalem**, Foutse Khomh, Leuson Da Silva, Ettore Merlo"
 paperurl: https://arxiv.org/abs/2601.05555
 bibtex: |

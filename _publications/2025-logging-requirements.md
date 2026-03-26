@@ -3,7 +3,7 @@ title: "Logging Requirements for Continuous Auditing of Responsible Machine Lear
 collection: publications
 permalink: /publication/logging-requirements
 date: 2025-01-01
-venue: "Empirical Software Engineering (EMSE)"
+venue: "Empirical Software Engineering (EMSE Journal)"
 authors: "**Patrick L. Foalem**, Leuson Da Silva, Foutse Khomh, Heng Li, Ettore Merlo"
 paperurl: https://link.springer.com/article/10.1007/s10664-025-10656-8
 bibtex: |
