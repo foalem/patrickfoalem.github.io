@@ -83,6 +83,8 @@ Bangangté, Cameroon
 
 <div style="max-height:220px; overflow-y:auto; border-left:3px solid #2c7be5; padding-left:15px;">
 
+<strong>16 Apr 2026</strong> – I presented our paper <i>Logging Requirements for Continuous Auditing of Responsible ML Applications</i> at the <b>International Conference on Software Engineering (ICSE 2026)</b>. <a href="/files/Logging-requirement-ml-icse2026.pdf" target="_blank">Slides</a> | <a href="https://youtu.be/oZag-YwHQ3s" target="_blank">Video</a>.<br><br>
+
 <strong>19 Mar 2026</strong> – I presented our Registered Report <i>Empirical Characterization of Logging Smells in Machine Learning Code</i> at the <b>IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026)</b>. <a href="/files/logging-smells-ml-saner2026.pdf" target="_blank">Slides</a> | <a href="https://youtu.be/bsJwQoIKoAs" target="_blank">Video</a>.<br><br>
 
 <strong>09 Jan 2026</strong> – Our paper <i>Empirical Characterization of Logging Smells in Machine Learning Code</i> has been accepted as a <b>Registered Report at SANER 2026</b> and will be presented at the conference in Cyprus.<br><br>
